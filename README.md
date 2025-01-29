@@ -68,7 +68,7 @@ source: https://github.com/devicons/devicon
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grimwargg&locale=en&hide_title=false&show_icons=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grimwargg&locale=en&hide_title=false&show_icons=true&layout=compact&card_width=320&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grimwargg&locale=en&hide_title=false&layout=compact&card_width=320&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
